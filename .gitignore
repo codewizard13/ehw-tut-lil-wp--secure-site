@@ -142,34 +142,36 @@ junk/
 #######################################################
 
 # Ignore everything in the root directory
-/*
+# /*
 
-# Except notes folder
-!notes/
+# # Except notes folder
+# !notes/
 
-# Except wp-content
-!wp-content/
+# # Except wp-content
+# !wp-content/
 
-# Ignore everything in wp-content
-wp-content/*
+# # Ignore everything in wp-content
+# wp-content/*
 
-# Except themes and plugins directories
-!wp-content/themes/
-!wp-content/plugins/
+# # Except themes and plugins directories
+# !wp-content/themes/
+# !wp-content/plugins/
 
-# Ignore everything in the themes directory
-wp-content/themes/*
+# # Ignore everything in the themes directory
+# wp-content/themes/*
 
-# Except the specific theme
-!wp-content/themes/ehw-gp-child-wiki/
-!wp-content/themes/ehw-gp-child-wiki/**
+# # Except the specific theme
+# !wp-content/themes/ehw-gp-child-wiki/
+# !wp-content/themes/ehw-gp-child-wiki/**
 
-# Ignore everything in the plugins directory
-wp-content/plugins/*
+# # Ignore everything in the plugins directory
+# wp-content/plugins/*
 
-# Except the specific plugin
-!wp-content/plugins/ehw-site-plugin/
-!wp-content/plugins/ehw-site-plugin/**
+# # Except the specific plugin
+# !wp-content/plugins/ehw-site-plugin/
+# !wp-content/plugins/ehw-site-plugin/**
+
+
 
 # Additional common ignores
 
