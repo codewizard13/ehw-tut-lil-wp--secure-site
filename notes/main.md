@@ -59,8 +59,27 @@
 - If a hacker gains access to your server they will have more access than just your dashboard
 
 #### 1.2 How WordPress sites become vulnerable
+
+- WordPress is one of the most popular CMS in the world due to how inherently secure it is, but popularity also makes it the most targeted
+- A Securi study (2020) shows 94% of websites infected with malware were WordPress websites
+- Most hacks due to vulnerabilities with plugins and themes, config problems, and lack of maint/updates
+  
+**Vulnerability Distribution**:
+
+- Plugins: 75%
+- WordPress Core: 14%
+- Themes: 11%
+
+- WordPress is open source meaning anyone can contribute code
+- There are a lot of review processes
+- People all over the world jump to alert about newly found vulnerabilities
+
 #### 1.3 Chapter Quiz
+
 ### 2. WordPress User Accounts
+
+
+
 #### 2.0 How to create a secure WordPress user account
 #### 2.1 Best practices for keeping WordPress user accounts secure
 #### 2.2 Tools for securing your WordPress login screen
