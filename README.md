@@ -8,6 +8,10 @@
 | Version       | 00.01.00                                      |
 | Programmer    | **Eric Hepperle**                             |
 
+### COURSE URL
+
+- https://www.linkedin.com/learning/wordpress-building-a-secure-site
+
 ### GITHUB REPO
 
 - https://github.com/codewizard13/ehw-tut-lil-wp--secure-site
