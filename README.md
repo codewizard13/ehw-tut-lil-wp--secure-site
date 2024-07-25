@@ -24,7 +24,7 @@
 
 **SCREENSHOT 1**:
 
-![](pix/screen--tutwrk-lwc--playwright-scraping--01.jpg)
+![](pix/screen--lil--wp-secure-site--01.jpg)
 
 
 ## TAGS

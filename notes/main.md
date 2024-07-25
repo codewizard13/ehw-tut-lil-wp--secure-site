@@ -1,15 +1,63 @@
 <link rel="stylesheet" href="../css/notes.css" />
 
-# TUTORIAL NOTES
+# COURSE NOTES
 
 <a id="top-bookmark-btn" class="bookmark-link" href="#bookmark">JUMP TO BOOKMARK</a>
 
 
 ### 0. Introduction
+
 #### 0.0 Building a secure WordPress website
+
+- Users are more savvy, so your site needs to be secure
+- No-code approach to site security
+- How to choose and maintain plugins and themes
+- Firewall options
+- How to set up an SSL certificate
+- E-Commerce security
+- Personal recs for free/paid tools
+- Optional code snippets
+
 ### 1. WordPress Structure and Vulnerabilities
+
 #### 1.0 How to choose a secure WordPress hosting provider
+
+- First step is choosing a secure hosting provider
+- All websites are made up of nothing but files containing code
+- She personally recommends **managed hosting**, a relatively new concept
+
+- **Managed Hosting**: Hosting package is optimized to suit the unique needs of your site. Focused on your website needs. Ex:
+  - Managed WordPress Hosting
+  - Managed WooCommerce Hosting
+
+**Shared vs. Dedicated**
+
+- Not very popular anymore
+- **Shared Hosting**: Is like living in an apartment building
+- **Dedicated Hosting**: Is like living in a house; more expensive than shared hosting
+- If you are starting a personal blog, or basic brochure website you won't need as many resources
+- If your website complexity is **ecommerce, application, or large database site**, you'll need to _look more deeply into security options_
+- The more information you take through a website the larger the risk, so the more resources are needed
+
+**Wordpress Hosting Essentials**
+
+- SSL Certificate
+- CDN provides cloud security to stop a DDOS attack
+- Firewalls block viruses
+- Spam filters
+- Security monitoring
+
 #### 1.1 Overview of the WordPress structure
+
+- WordPress is a content management system (CMS) a system for helping manage your content
+- Other CMS: Drupal, Joomla, Magneto, Squarespace, WIX
+- WordPress files
+- WordPress database - stores dynamic data
+- **Dashboard**: Files and database reference and talk to each other; allows you to make edits to your site without having to know code
+- When you take a backup you have to backup both files and database #GOTCHA
+- Files and database both live on your server
+- If a hacker gains access to your server they will have more access than just your dashboard
+
 #### 1.2 How WordPress sites become vulnerable
 #### 1.3 Chapter Quiz
 ### 2. WordPress User Accounts
